@@ -13,30 +13,47 @@ Para entrar no catálogo v1, o produto precisa atender ao menos **2 das 4 dimens
 
 ---
 
-## Natura
+## Natura ⭐ (posicionamento sustentável mais sólido)
 
-| Linha | Produto candidato | Dimensões atendidas | Observações |
+Certificações de empresa: **B Corp** (2014, primeira de capital aberto no mundo) + **Leaping Bunny** (2006, primeira da América Latina) + **PETA**.
+
+| Linha | Produto candidato | Selos / Critérios | Prioridade |
 |---|---|---|---|
-| Ekos | A mapear | Ingredientes, Processo | Maior histórico sustentável da Natura |
-| Plant | A mapear | Ingredientes, Embalagem | Foco em vegano e embalagem |
+| Ekos | A mapear — definir SKUs | Ingredientes naturais, FSC, Leaping Bunny | Alta |
+| Plant | A mapear — definir SKUs | Vegano, ingredientes naturais, embalagem | Alta |
+| Outras | Avaliar caso a caso | Verificar SVB por produto | Média |
 
-## Boticário
+## Boticário ⭐ (único com COSMOS Organic no Brasil)
 
-| Linha | Produto candidato | Dimensões atendidas | Observações |
+Certificações: **Leaping Bunny** (25+ anos) + **PETA** + **COSMOS Organic via Ecocert** (linha Nativa SPA).
+
+| Linha | Produto candidato | Selos / Critérios | Prioridade |
 |---|---|---|---|
-| FloeSis | A mapear | A avaliar | |
-| Make B. | A mapear | A avaliar | Verificar se claims são certificados |
+| Nativa SPA Orgânico | A mapear — definir SKUs | **COSMOS Organic** (Ecocert) + vegano + plástico reciclado | **Muito Alta** |
+| FloeSis | A mapear | Verificar certificações específicas | Média |
+| Make B. | A mapear | Verificar se claims têm respaldo certificado | Baixa (risco greenwashing) |
 
-## Avon
+## Avon (avaliar com mais rigor)
 
-| Linha | Produto candidato | Dimensões atendidas | Observações |
+Certificações: **PETA** + 80% dos produtos declarados veganos. Sem B Corp ou Leaping Bunny confirmado.
+
+| Linha | Produto candidato | Selos / Critérios | Prioridade |
 |---|---|---|---|
-| A mapear | A mapear | A avaliar | Menor histórico — avaliar com mais rigor |
+| Linhas veganas | A mapear | PETA + declaração vegana da empresa | Baixa-Média |
+| Outras | Avaliar individualmente | Menor histórico de certificação auditada | Baixa |
 
 ---
 
+## Recomendação de Foco para o v1
+
+Dado o critério mínimo (2 dimensões + 1 selo), priorizar nesta ordem:
+
+1. **Nativa SPA Orgânico (Boticário)** — único produto com COSMOS Organic no portfólio atual. Fácil de comunicar, credencial verificável.
+2. **Ekos e Plant (Natura)** — respaldados pelo B Corp e Leaping Bunny da empresa. Maior confiança institucional.
+3. **Avon e demais linhas** — entram apenas se produto específico tiver SVB ou outro selo por produto.
+
 ## Próximos Passos
 
-1. Preencher tabelas com produtos específicos e preços
-2. Validar selos de cada produto contra `criterios_sustentabilidade.md`
-3. Definir os 10–15 SKUs finais do catálogo v1
+1. Levantar SKUs específicos e preços das linhas Nativa SPA Orgânico, Ekos e Plant
+2. Verificar quais produtos individuais têm SVB
+3. Fechar lista de 10–15 SKUs e registrar aqui

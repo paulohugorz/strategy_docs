@@ -4,7 +4,7 @@
 
 ## Status
 
-- [ ] Mapeamento de selos concluído
+- [x] Mapeamento de selos concluído
 - [ ] Critérios mínimos definidos
 - [ ] Aplicado ao catálogo v1
 
@@ -19,9 +19,42 @@ Cada produto no catálogo Vera será avaliado em quatro dimensões:
 | **Processo** | Cruelty-free, certificação de fornecedores, pegada de carbono |
 | **Empresa** | Histórico da marca, transparência, greenwashing vs. compromisso real |
 
-## Selos Relevantes
+---
 
-*A ser preenchido com o resultado da pesquisa de selos.*
+## Selos Mapeados
+
+### Para o consumidor identificar (prioridade de comunicação)
+
+| Selo | Foco | Origem | Rigor | Onde aparece |
+|---|---|---|---|---|
+| **SVB — Selo Vegano Brasil** | Vegano + cruelty-free | Nacional | Alto (por produto) | Natura e Boticário (alguns produtos) |
+| **PETA Beauty Without Bunnies** | Cruelty-free / vegano | Internacional | Médio (declaração) | Natura, Avon, Boticário |
+| **Leaping Bunny** | Cruelty-free (auditado) | Internacional | Muito alto | Natura (desde 2006), Boticário |
+| **COSMOS Organic (Ecocert)** | Ingredientes orgânicos | Internacional | Muito alto | Boticário — linha Nativa SPA Orgânico |
+| **B Corp** | Empresa sustentável (amplo) | Internacional | Muito alto | Natura (1ª empresa de capital aberto no mundo, 2014) |
+| **FSC** | Embalagem responsável | Internacional | Alto | Natura e Boticário (diversas linhas) |
+
+### Para referência futura (marcas próprias ou parceiros)
+
+| Selo | Foco | Acessibilidade para PME |
+|---|---|---|
+| SVB | Vegano | Alta — selo nacional, taxa anual por produto |
+| PETA | Cruelty-free | Alta — processo simples, baseado em declaração |
+| IBD Orgânico | Ingredientes orgânicos | Moderada — auditoria exigida, reconhecimento nacional e internacional |
+| COSMOS Natural/Organic | Ingredientes naturais/orgânicos | Moderada — custo de auditoria via Ecocert Brasil |
+| B Corp | Empresa como um todo | Moderada — proporcional ao porte da empresa |
+
+---
+
+## Critério Mínimo para o Catálogo Vera (v1)
+
+Para entrar no catálogo, o produto precisa atender ao menos **2 das 4 dimensões** com evidência verificável — preferencialmente com pelo menos **1 selo reconhecido**.
+
+Hierarquia de confiança dos selos (do mais ao menos rigoroso):
+1. COSMOS Organic / Leaping Bunny / B Corp — certificação por terceiros, auditada
+2. SVB — certificação por terceiros, nacional
+3. PETA — declaração da empresa, reconhecida internacionalmente
+4. Claim próprio da marca sem certificação — aceito apenas se acompanhado de outro critério
 
 ---
 
